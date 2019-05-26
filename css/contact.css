@@ -1,0 +1,25 @@
+.jumbotron {
+  height: 200px;
+  background-image: url("../images/mac.jpg");
+  background-size: cover;
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  color: white;
+}
+
+label,
+input,
+textarea {
+  color: #777777;
+  margin: 10px 15px 10px 15px;
+  width: 930px;
+  height: 25px;
+}
+
+textarea {
+  height: 50px;
+}
+
+.btn {
+  margin-left: 15px;
+}

@@ -1,0 +1,13 @@
+body {
+  min-height: 75rem;
+  padding-top: 4.5rem;
+}
+
+nav {
+  background-color: #eeeeee;
+}
+
+footer {
+  background-color: #eeeeee;
+  border-top: 8px solid #4d197a;
+}

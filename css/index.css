@@ -1,10 +1,5 @@
-nav {
-  background-color: #eeeeee;
-}
-
 .jumbotron {
   height: 500px;
-  /* background-image: url("../images/keyboard.jpg"); */
   background-image: url("../images/mac.jpg");
   background-size: cover;
   background-position: 50% 50%;
@@ -28,8 +23,6 @@ hr {
   overflow: hidden;
 }
 
-
-
 #aboutme {
   background-color: #4d197a;
   padding: 25px;
@@ -51,11 +44,4 @@ hr {
 p::first-letter {
   font-size: 200%;
   color: white;
-}
-
-
-footer {
-  background-color: #eeeeee;
-  border-top: 8px solid #4d197a;
-
 }

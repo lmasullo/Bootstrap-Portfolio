@@ -37,7 +37,7 @@ hr {
   display: flex;
   justify-content: center;
   align-items: center;
-  float: left;
+  /* float: left; */
   margin-right: 25px;
 }
 
